@@ -1,0 +1,23 @@
+{
+  "workbench.startupEditor": "none",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "files.autoSave": "afterDelay",
+  "window.zoomLevel": 0.5,
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.minimap.enabled": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "json.schemas": [],
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "editor.renderWhitespace": "boundary",
+  "workbench.colorTheme": "Night Owl",
+}
